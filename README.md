@@ -43,22 +43,14 @@ please fork it and create new Future and help me to Improve this application.
 sudo apt-get install sqlite3
 touch database/database.sqlite
 ```
-Update 
-
-.env
-
- file:
+Update .env file:
 ```
 DB_CONNECTION=sqlite
 DB_DATABASE=/absolute/path/to/database/database.sqlite
 ```
 
 ### 4. Environment Configuration
-Update the following in 
-
-.env
-
-:
+Update the following in .env :
 ```
 TELEGRAM_CHAT_ID=your_chat_id
 TELEGRAM_UPLOAD_PATH_TO_BINARY=/usr/local/bin/telegram-upload
@@ -211,5 +203,5 @@ sudo systemctl status laravel-server
 
 ❤️ Thanks
 =========
-This project developed by `Kamal Ashraf Gill  <https://github.com/kamalashrafgill>`_ & `Mohammad Ah <https://github.com/mohammadham>`_
-https://github.com/kamalashrafgill
+This project developed by `Kamal Ashraf Gill  <https://github.com/Nekmo>`_ & `Mohammad Ah <https://github.com/mohammadham>`_ .
+
